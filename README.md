@@ -6,7 +6,7 @@ Orca desktop host to show agent attention, host status, and usage. Conversation
 reading and exact-target replies are implemented but have not passed a live
 watch-to-agent acceptance test.
 
-**[Download the 0.0.1 developer preview](https://github.com/Dhi13man/orca-watch/releases/tag/v0.0.1)**
+**[Download the 0.0.3 developer preview](https://github.com/Dhi13man/orca-watch/releases/tag/v0.0.3)**
  · [Install and pair](#install-and-pair) · [Build](#build-from-source)
  · [Security](SECURITY.md)
 
@@ -71,7 +71,7 @@ arbitrary RPC access.
 
 ### Install the APK
 
-Download the signed ARMv7 APK from the [0.0.1 release](https://github.com/Dhi13man/orca-watch/releases/tag/v0.0.1)
+Download the signed ARMv7 APK from the [0.0.3 release](https://github.com/Dhi13man/orca-watch/releases/tag/v0.0.3)
 and install it on the watch. Its package ID is `com.stably.orca.wearos`; it can
 sit beside earlier developer test builds. Android rejects an update signed by
 a different key. Preserve the installed app and its data if that check fails.
