@@ -2,7 +2,7 @@
   "expo": {
     "name": "Orca Wear",
     "slug": "orca-wear",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "scheme": "orca",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
@@ -17,7 +17,7 @@
       ],
       "package": "com.stably.orca.wearos",
       "usesCleartextTraffic": true,
-      "versionCode": 2
+      "versionCode": 3
     },
     "plugins": [
       "./plugins/with-wear-manifest.js",
